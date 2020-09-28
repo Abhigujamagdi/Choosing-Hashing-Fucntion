@@ -1,1 +1,1 @@
-# Choosing-Hashing-Fucntion
+# Choosing-Hashing-Function
